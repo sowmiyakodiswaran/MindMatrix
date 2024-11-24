@@ -1,4 +1,5 @@
-Data analysis 
+# Data analysis 
+
 This repository is dedicated to data analysis projects, focusing on extracting meaningful insights from raw datasets. It includes scripts, visualizations, and reports that showcase data exploration, preprocessing, and result interpretation.
 
 The goal is to help solve [specific problem domain, e.g., healthcare trends, business forecasting, etc.] using data-driven approaches.
